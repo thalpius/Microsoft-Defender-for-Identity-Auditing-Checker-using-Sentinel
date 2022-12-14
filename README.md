@@ -12,5 +12,4 @@ Here you can see the event written to the application log in the event viewer:
 
 
 Here you can see an alert in Microsoft Sentinel once an auditing configuration is not configured properly:
-<img align="center" src="/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel02.png" width=90% height=90%>
-
+<p align="center"><img src="/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel02.png"></p>
