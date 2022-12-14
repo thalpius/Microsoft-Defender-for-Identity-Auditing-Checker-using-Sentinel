@@ -8,8 +8,8 @@ https://thalpius.com/2022/12/14/microsoft-defender-for-identity-auditing-checker
 # Screenshots
 
 Here you can see the event written to the application log in the event viewer:
-![Alt text](/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel01.png?raw=true "Microsoft Defender for Identity Event")
+![Alt text](/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel01.png | width=200 "Microsoft Defender for Identity Event")
 
 Here you can see an alert in Microsoft Sentinel once an auditing configuration is not configured properly:
-![Alt text](/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel02.png?raw=true "Microsoft Sentinel Result")
+![Alt text](/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel02.png | width=200 "Microsoft Sentinel Result")
 
