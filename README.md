@@ -8,9 +8,9 @@ https://thalpius.com/2022/12/14/microsoft-defender-for-identity-auditing-checker
 # Screenshots
 
 Here you can see the event written to the application log in the event viewer:
-<img align="middle" src="/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel01.png" width=80% height=80%>
+<img align="center" src="/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel01.png" width=80% height=80%>
 
 
 Here you can see an alert in Microsoft Sentinel once an auditing configuration is not configured properly:
-<img align="middle" src="/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel02.png" width=90% height=90%>
+<img align="center" src="/Screenshots/MicrosoftDefenderForIdentityAuditingCheckerUsingSentinel02.png" width=90% height=90%>
 
