@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "This repo is now in 'Blue Screen' mode—archived and frozen in time!"
+
 # Microsoft Defender for Identity Auditing Checker using Sentinel
 
 I created a script that checks the Microsoft Defender for Identity Auditing configuration and writes the result in the event viewer. Using the event, you can use any SIEM/SOAR solution to monitor the state of the configuration. Check the following blog post if you want to know more about how to monitor the Microsoft Defender for Identity Auditing configuration using Microsoft Sentinel.
